@@ -25,6 +25,8 @@
 .DS_Store
 /vendor/bundle
 
+/public/uploads/
+
 # Ignore master key for decrypting credentials and more.
 /config/master.key
 
